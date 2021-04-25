@@ -1,0 +1,99 @@
+.tab {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tab:hover {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.pro {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #1f5b9e;
+	text-decoration: none;
+}
+.pro1 {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #1f5b9e;
+	text-decoration: none;
+}
+.text {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.bottom_tab {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+}
+.text_bold {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.more {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #d14d2d;
+	text-decoration: underline;
+}
+.about_bot {
+	font-family: Verdana;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #d26f36;
+	text-decoration: none;
+}
+.about_botom {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #006600;
+	text-decoration: none;
+}
+.quastion {
+	font-family: Verdana;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #CC6600;
+	text-decoration: blink;
+}
